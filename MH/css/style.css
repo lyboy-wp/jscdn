@@ -121,7 +121,7 @@ body {
 }
 
 .w3l-main {
-    background: url(https://lyboy.oss-accelerate.aliyuncs.com/wordpress/bg.jpg) no-repeat center;
+    background: url('https://cdn.jsdelivr.net/gh/lyboy-wp/jscdn/img/bg.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
